@@ -1,7 +1,6 @@
 class Templative < Formula
   desc "A tiny CLI for managing project templates"
   homepage "https://github.com/serenacula/templative"
-  version "1.0.2"
   license "MIT"
 
   on_macos do
