@@ -5,23 +5,23 @@ class Splitby < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/serenacula/splitby/releases/download/v1.2.4/splitby-aarch64-apple-darwin.tar.xz"
-      sha256 "f8a0425a4964ab314e0d2c1ef711d3f116f21b02b0e780a40dcd053532c2bcbe"
+      url "https://github.com/serenacula/splitby/releases/download/v1.2.5/splitby-aarch64-apple-darwin.tar.xz"
+      sha256 "10af91652bed264f8b889fd42bd164bcf8028eeffd4a6200afb2a2b330ce2eca"
     end
     on_intel do
-      url "https://github.com/serenacula/splitby/releases/download/v1.2.4/splitby-x86_64-apple-darwin.tar.xz"
-      sha256 "639e0dc278078c31489ea5406d7ea88adc839a4926b44bfa65c2019c79f9ce07"
+      url "https://github.com/serenacula/splitby/releases/download/v1.2.5/splitby-x86_64-apple-darwin.tar.xz"
+      sha256 "db567b7e7ce89546d0be451f4e9c49cb26dd9828d165f8f62fedbedd799b5ec7"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/serenacula/splitby/releases/download/v1.2.4/splitby-aarch64-unknown-linux-gnu.tar.xz"
-      sha256 "3382e71eb0bbdb0b005dced21cd4d758efa0bd53c66d5ea00e18df5e69bf2356"
+      url "https://github.com/serenacula/splitby/releases/download/v1.2.5/splitby-aarch64-unknown-linux-gnu.tar.xz"
+      sha256 "7db05f65cb87cc5cf760feeb6de105d6b7283a1cd27b5dc27af7d33b4077c2aa"
     end
     on_intel do
-      url "https://github.com/serenacula/splitby/releases/download/v1.2.4/splitby-x86_64-unknown-linux-gnu.tar.xz"
-      sha256 "e2be25fa38141caa0af7a5ff6877ea5dba47ab42481d973442036ef6f91d3ea4"
+      url "https://github.com/serenacula/splitby/releases/download/v1.2.5/splitby-x86_64-unknown-linux-gnu.tar.xz"
+      sha256 "284ae306420b7829bf44a8b9585423b2836d54ca8a80177bb14fc91873148709"
     end
   end
 
