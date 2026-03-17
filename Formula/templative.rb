@@ -5,23 +5,23 @@ class Templative < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/serenacula/templative/releases/download/v1.0.2/templative-aarch64-apple-darwin.tar.xz"
-      sha256 "57c06c7399d808da86a9a587c01375c6edcc7ad6cf73be1d61354fc0ec45e9f5"
+      url "https://github.com/serenacula/templative/releases/download/v1.0.3/templative-aarch64-apple-darwin.tar.xz"
+      sha256 "cc5f71d1ff162da57af477b3f6ada0c1247c1f035111168152a3ab5528392142"
     end
     on_intel do
-      url "https://github.com/serenacula/templative/releases/download/v1.0.2/templative-x86_64-apple-darwin.tar.xz"
-      sha256 "2cc06b2331235a777dfb1b02d4acc9eeba9e3a68a81e4ca13b9fff7eee89edc0"
+      url "https://github.com/serenacula/templative/releases/download/v1.0.3/templative-x86_64-apple-darwin.tar.xz"
+      sha256 "07f0402b18f65de7a328b267f214cb12a4e556eb0eb592e22e9e78e04e3c8271"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/serenacula/templative/releases/download/v1.0.2/templative-aarch64-unknown-linux-gnu.tar.xz"
-      sha256 "b3c0105dc12145ad24ef63501bbae65c7ebd831c5579116828a034375321e739"
+      url "https://github.com/serenacula/templative/releases/download/v1.0.3/templative-aarch64-unknown-linux-gnu.tar.xz"
+      sha256 "5eef0b1d048cf4679b8f02b52ed53697f75f74368b964e3afa32c34a6e39bf65"
     end
     on_intel do
-      url "https://github.com/serenacula/templative/releases/download/v1.0.2/templative-x86_64-unknown-linux-gnu.tar.xz"
-      sha256 "300cc37301aebda2361e26f46a45c13b03d40343e8470f9b84ab6f2cdd2e2ca6"
+      url "https://github.com/serenacula/templative/releases/download/v1.0.3/templative-x86_64-unknown-linux-gnu.tar.xz"
+      sha256 "dd72a0d5fb117d68d1e556d1169673a61d336f0dc0052553f0e42fca455d5a7c"
     end
   end
 
